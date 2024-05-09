@@ -4,7 +4,6 @@
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
-
 ## DESIGN STEPS:
 
 ### Step 1:
